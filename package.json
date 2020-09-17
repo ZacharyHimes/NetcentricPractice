@@ -1,0 +1,27 @@
+{
+  "name": "netcentricpractice",
+  "version": "1.0.0",
+  "description": "a simple hello world Node App",
+  "engines": {
+      "node": "12.x"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacharyHimes/NetcentricPractice.git"
+  },
+  "keywords": [
+    "node.js"
+    "heroku"
+  ],
+  "author": "Zachary T. Himes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZacharyHimes/NetcentricPractice/issues"
+  },
+  "homepage": "https://github.com/ZacharyHimes/NetcentricPractice#readme"
+}
