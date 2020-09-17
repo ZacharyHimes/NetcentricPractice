@@ -15,7 +15,7 @@
     "url": "git+https://github.com/ZacharyHimes/NetcentricPractice.git"
   },
   "keywords": [
-    "node.js"
+    "node.js",
     "heroku"
 ],
   "author": "Zachary T. Himes",
