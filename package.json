@@ -14,10 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/ZacharyHimes/NetcentricPractice.git"
   },
-  "keywords": [
+  "keywords": {
     "node.js"
     "heroku"
-  ],
+},
   "author": "Zachary T. Himes",
   "license": "MIT",
   "bugs": {
